@@ -1,0 +1,77 @@
+#profilePic, #imageForm, #credentialsForm {
+    margin: 1%;   
+}
+
+h3, h4 {
+    margin-bottom: -1%;
+}
+
+#credentialsForm input , #imageForm input {
+    margin-top: 1%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#profilePic {
+    width:10%; 
+    height: auto;
+}
+
+#NewPic {
+    display:inline-block;
+    margin-right:5px; 
+    border: solid #5f4c4c 2px;
+    padding: 15px;
+    padding-top: 19px;
+    margin-top: 1%;
+}
+
+#NewPic input[type="submit"] {
+    margin-top: 25px;
+}
+
+#NewPic input[type="file"] {
+    margin-top: 25px;
+}
+
+#UpdateCredentials {
+    display:inline-block;
+    border: solid #5f4c4c 2px;
+    padding: 15px;
+    margin-top: 1%;
+}
+
+#logout .btn {
+    margin: 1% 0%;
+}
+
+#favourites, #requests {
+    margin-top: 1%;
+}
+
+#favourites a, #requests a {
+    text-decoration: none;
+    color: #5f4c4c;
+    font-weight: bolder;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#accept, #reject{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+#reject{
+    margin-left: 5px;
+}
+
+#removepost {
+    margin-top: 1%;
+}
+

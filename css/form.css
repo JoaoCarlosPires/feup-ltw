@@ -1,0 +1,54 @@
+form {
+  text-align: center;
+}
+
+#signup a {
+  text-decoration: none;
+  color: white;
+}
+
+button #signup  {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%; 
+  padding: 12px 20px;
+  box-sizing: border-box;
+}
+
+input[type=text], input[type=password], input[type=number]{
+  width: 30%;
+  border: 2px solid #5f4c4c;
+}
+
+textarea {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1%; 
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #5f4c4c;
+  border-radius: 4px;
+  background-color: white;
+  resize: none;
+}
+
+input[type=submit] {
+  margin-top: 1%; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}

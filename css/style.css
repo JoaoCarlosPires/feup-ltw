@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+}
+
+#petinfo {
+    top: 10px;
+    text-align: center;
+    background-color: #5f4c4c;
+    margin: 50px 0px;
+    color: white;
+}
+
+#name {
+    background-color: #5f4c4c;
+    margin-bottom: 50px;
+    color: white;
+}
+
+button, input[type=submit] {
+    color: white;
+font-weight: bolder;
+text-transform: uppercase;
+text-decoration: none;
+background: #5f4c4c;
+padding: 10px;
+border: 4px solid #5f4c4c;
+display: inline-block;
+transition: all 0.4s ease 0s;
+border-radius: 20px;
+}
