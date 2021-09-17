@@ -1,6 +1,6 @@
 # feup-ltw
  
-This programs were created during the **1st semester** of the **3rd year** of **Integrated Master in Informatics and Computing Engineering**, in **Web Languages and Technologies** curricular unity (FEUP).
+This project was created during the **1st semester** of the **3rd year** of **Integrated Master in Informatics and Computing Engineering**, in **Web Languages and Technologies** curricular unity (FEUP).
 
 [LTW FEUP-Sigarra](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=281471 "Curricular Unity Homepage")
 
@@ -8,9 +8,9 @@ This programs were created during the **1st semester** of the **3rd year** of **
 
 All the work developed during this curricular unit was made side-by-side with
 
-- [João Matos](https://github.com/MechJM "Github Profile").
-- [José Maçães](https://github.com/zemmacaes "Github Profile").
-- [Tomás Gonçalves](https://github.com/tomasfgon "Github Profile").
+- [João Matos](https://github.com/MechJM "Github Profile")
+- [José Maçães](https://github.com/zemmacaes "Github Profile")
+- [Tomás Gonçalves](https://github.com/tomasfgon "Github Profile")
 
 ## Credentials
  To use the full functionalities of our website, you just have to signup.
